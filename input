@@ -1,0 +1,18 @@
+### Emphasis
+
+You can add emphasis to text by using `**bold**` or `_italic_` around the text. For example, `**hello**` will create bold text, while `_hello_` will create italic text.
+
+## Paragraphs
+
+Markdown is designed to be easy to read and write, so it uses a simple syntax for paragraphs. A blank line separates one paragraph from the next. You can add meaning to your text by using different sentence structures and connecting words.
+
+## Links
+
+This is a link in a markdown file `[link text](url)`.
+
+## Images
+
+You can include images in a Markdown document by using ![alt text](url "title"). For example, `![example image](example-image.jpg "An exemplary image")` will include the image located at "example-image.jpg" with the alternate text "An exemplary image" and the title "example image".
+
+The end.
+
